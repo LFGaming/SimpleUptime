@@ -1,0 +1,9 @@
+{
+    "discord_webhook_url": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "check_interval_seconds": 300,
+    "urls": [
+        "https://github.com",
+        "https://your-personal-website.com",
+        "http://192.168.1.100:8080"
+    ]
+}
